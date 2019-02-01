@@ -1,4 +1,4 @@
 # hello-world
 Well, my first hello world in github...
 
-I'm learining java right now, know a bit of C# and a bit of Bash.
+I'm mainly keeping this repo to remind myself where this all started1 :D
